@@ -3,7 +3,7 @@ import InformationCardMainView from "./components/informationCard/UI/Information
 
 function App() {
   return (
-    <div className='app'>
+    <div className='app '>
       <InformationCardMainView/>
     </div>
   );
